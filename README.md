@@ -20,5 +20,5 @@ where
 *  B  = bursting oscillations
 *  CP = a complex succession of chaotic and periodic regimes
 
-
-
+Linux compilation: `gcc BZPhaseLinux.c -o BZPhase -lm -lGL -lGLU -lglut`
+Tested with OpenGL 4.6, FreeGLUT 3.8.0 and gcc 15.
